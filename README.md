@@ -105,7 +105,7 @@ src/
 <ol>
     <li><strong>Clone the repository:</strong>
         <pre>
-git clone https://github.com/your-username/Banking_Project_Using_SpringBoot.git
+git clone https://github.com/sarthakshelar07/Banking_Project_Using_SpringBoot.git
 cd Banking_Project_Using_SpringBoot
         </pre>
     </li>
